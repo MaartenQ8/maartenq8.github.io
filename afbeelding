@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <a href="index.html" class="btn danger">terug</a><br>
+    <h1>Wat te bestellen in een pizzahut</h1>
+
+<img src="afbeelding%20pizza.jpg" width=200 ><br>
+    <strong>pizza salamie</strong><br>
+<img src="banner_0_0.png" width=200><br>
+    <strong>of een buffet a volonté bij de pizzahut</strong><br>
+
+<img src="20180718124404178.jpg" width=200><br>
+
+    <strong>pizza bundel</strong>
+</body>
+</html>
