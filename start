@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+</head>
+<body>
+<h1>pizza</h1>
+<p>dit is een website over pizza's</p>
+<p>als je verder leest kom je verschillende artikels en foto's tegen over pizza's</p>
+ <a href="knoppenpagina.html" class="btn danger">naar pagina</a>
+</body>
+</html>
